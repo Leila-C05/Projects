@@ -78,4 +78,3 @@
         <Button x:Name="OK_Button_Copy26" Content="deg" Grid.Row="3" Grid.Column="6" Margin="10,10,10,10" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
     </Grid>
 </Window>
-        
